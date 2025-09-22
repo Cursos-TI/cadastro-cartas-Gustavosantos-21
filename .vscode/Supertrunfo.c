@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 int main() {
     
     float PIB1, area1;
@@ -112,4 +113,3 @@ int main() {
     printf("Numero de Pontos Turisticos: %d\n", pontosturisticos2);
 
     return 0;
-  }
